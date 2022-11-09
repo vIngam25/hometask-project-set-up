@@ -1,0 +1,10 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "main": "index.js",
+  "repository": "https://github.com/vIngam25/hometask-project-set-up",
+  "author": "Inga Muitiniece",
+  "license": "MIT",
+  "private": true
+}
