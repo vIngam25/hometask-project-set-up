@@ -6,5 +6,8 @@
   "repository": "https://github.com/vIngam25/hometask-project-set-up",
   "author": "Inga Muitiniece",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
